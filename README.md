@@ -1,4 +1,5 @@
-# strapi-react-graphql
+# strapi-react-graphql-frontend
+This repo is part of a project that has two part: frontend (React) and backend (strapi).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
